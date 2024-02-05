@@ -1,6 +1,6 @@
-Jorge,Ramos
-matematicas,8.5
-español,9
-historia,9.3
-civismo,8.5
-redaccion,7.8
+Nombre,Apellido,"Fecha_nacimiento(aaaa,mm,dd)",matemáticas,historia,computación,civismo,redacción
+Jorge,Ramos,"1998,12,08",8.5,9,9.3,8.5,7.8
+Amalia,Batista,"2001,06,23",8,9,6.8,8.7,9
+Pedro,Conga,"2001, 04, 12",9,7.8,9,8,9
+Ariel ,Pérez,"2003, 09,07",10,9,6.7,9,8
+Gera,Ruiz,"1999,04,19",7,10,9,10,10
